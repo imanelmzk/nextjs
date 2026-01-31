@@ -1,5 +1,6 @@
 # 🚀 Next.js Project — React vs Next.js in Practice
 
+
 ## 📖 Overview
 
 This project is a modern web application developed as part of my advanced learning journey in front-end and full-stack web development.
