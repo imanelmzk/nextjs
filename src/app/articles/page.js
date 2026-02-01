@@ -14,6 +14,7 @@ export default async function ArticlesPage(){
         <div>
             <h1>Articles Page</h1>
             <p>The page Articles Page!</p>
+            <h2>{todos.title}</h2>
 
             <div>
                 <Todo />
@@ -21,4 +22,4 @@ export default async function ArticlesPage(){
         </div>
         
     )
-}
+}  
