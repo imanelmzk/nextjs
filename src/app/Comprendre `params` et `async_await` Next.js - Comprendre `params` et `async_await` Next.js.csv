@@ -1,0 +1,4 @@
+L'utilisateur tape l'URL,Le nom de ton dossier,Ce que contient params
+/articles/react,articles/[title],"{ title: ""react"" }"
+/articles/javascript,articles/[title],"{ title: ""javascript"" }"
+/articles/123,articles/[title],"{ title: ""123"" }"
